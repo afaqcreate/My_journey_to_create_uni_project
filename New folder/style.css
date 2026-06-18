@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(43, 43, 43);
+    }
+
+button{
+    display: inline-block;
+    margin: 250px;
+    
+    background-image: linear-gradient(to bottom, #ff7e5f, #feb47b );
+    transition: background-image 0.3s, ease-in-out;
+
+    color: aliceblue;
+    border: none;
+    padding: 25px 50px;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.button:hover{
+    background-image: linear-gradient(to top, #6f5fff, #ca7bfe );
+}
