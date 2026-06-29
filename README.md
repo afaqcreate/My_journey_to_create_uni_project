@@ -1,4 +1,4 @@
-📌 Project Overview
+**📌 Project Overview**
 This repository documents my journey of learning modern web development and building my university capstone project.
 
 The Goal: Build an advanced AI Automation Browser Extension that bridges user actions in the browser with powerful, automated workflows.
